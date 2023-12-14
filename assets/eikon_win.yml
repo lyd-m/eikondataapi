@@ -97,7 +97,7 @@ dependencies:
   - tk
   - tornado
   - traitlets
-  - twython
+  - twython=3.9.1
   - urllib3
   - wcwidth
   - webencodings
@@ -129,7 +129,7 @@ dependencies:
     - tensorboard
     - tensorflow
     - termcolor
-    - twython
+    - twython=3.9.1
     - websocket-client
     - werkzeug
     - zope.interface
