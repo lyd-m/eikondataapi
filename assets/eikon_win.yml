@@ -129,7 +129,7 @@ dependencies:
     - tensorboard
     - tensorflow
     - termcolor
-    - twython=3.9.1
+    - twython==3.9.1
     - websocket-client
     - werkzeug
     - zope.interface
